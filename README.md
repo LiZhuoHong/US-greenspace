@@ -9,10 +9,9 @@ In this study, we present the first 0.6-m map of **eight greenspace functional t
 * If you have any questions or requests, contact us at zhuohong.li@duke.edu (Zhuohong Li, PhD.) or tong.qiu@duke.edu (Tong Qiu, PhD.).
 
 Our previous works:
-* [**Paraformer**](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_without_Exact_Guidance_Updating_Large-scale_High-resolution_Land_Cover_Maps_CVPR_2024_paper.pdf): accepted by CVPR 2024 (highlight), weakly supervised framework for high-resolution mapping. [**Code**](https://github.com/LiZhuoHong/Paraformer/)
 * [**SinoBF-1**](https://www.nature.com/articles/s41467-026-69589-5): accepted by Nature Communications 2026, satellite mapping of every building's function in urban China. [**Code**](https://github.com/LiZhuoHong/SinoBF-1/)
+* [**Paraformer**](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_without_Exact_Guidance_Updating_Large-scale_High-resolution_Land_Cover_Maps_CVPR_2024_paper.pdf): accepted by CVPR 2024 (highlight), weakly supervised framework for high-resolution mapping. [**Code**](https://github.com/LiZhuoHong/Paraformer/)
 * [**SinoLC-1**](https://essd.copernicus.org/articles/15/4749/2023/): accepted by ESSD 2023, the first 1-m resolution national-scale land-cover map of China. [**Data**](https://zenodo.org/record/7821068)
-* [**L2HNet V1**](https://www.sciencedirect.com/science/article/abs/pii/S0924271622002180): accepted by ISPRS P&RS 2022, the low-to-high network for HR mapping using LR labels.
 
 This repository contains the complete protocol for reproducing the analysis pipeline behind the figures: (1) Residential Greenspace Exposure, (2) redlining-grade disparity, (3) income and education gradients, (4) PM2.5 mitigation, and (5) cooling.
 
