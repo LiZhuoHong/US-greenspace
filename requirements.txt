@@ -1,0 +1,15 @@
+# Python dependencies for the greenspace analysis pipeline
+geopandas
+rasterio
+rioxarray
+xarray
+shapely
+pandas
+numpy
+scipy
+matplotlib
+rasterstats
+openpyxl
+tqdm
+# Step 2 (Figure 2c) additionally requires R with the 'data.table' package.
+# Per-city PM2.5 beta estimation (upstream, not included here) uses R 'brms' / Stan.
