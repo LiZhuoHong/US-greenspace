@@ -6,9 +6,7 @@ In this study, we present the first 0.6-m map of **eight greenspace functional t
 
 <img src="Fig/Background.png" width="70%">
 
-* [**Paper**](https://www.nature.com/) *(link to be updated)*
-* [**Homepage**](https://lizhuohong.github.io/lzh/)
-* If you have any questions or requests, contact us at ashelee@whu.edu.cn (Zhuohong Li) or tong.qiu@duke.edu (Tong Qiu, corresponding author).
+* If you have any questions or requests, contact us at zhuohong.li@duke.edu (Zhuohong Li, PhD.) or tong.qiu@duke.edu (Tong Qiu, PhD.).
 
 Our previous works:
 * [**Paraformer**](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_without_Exact_Guidance_Updating_Large-scale_High-resolution_Land_Cover_Maps_CVPR_2024_paper.pdf): accepted by CVPR 2024 (highlight), weakly supervised framework for high-resolution mapping. [**Code**](https://github.com/LiZhuoHong/Paraformer/)
