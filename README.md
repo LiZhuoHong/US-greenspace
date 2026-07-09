@@ -4,7 +4,7 @@
 
 In this study, we present the first 0.6-m map of **eight greenspace functional types** across **212 U.S. city cores** covered by 1930s Home Owners' Loan Corporation (HOLC) residential security maps. Our sub-meter product resolves **16,903 km² (85.5%)** of urban vegetation missed by the conventional 30-m NLCD, and we use it to quantify **population-weighted Residential Greenspace Exposure (RGE)**. Linking RGE to historical redlining grades, contemporary income and education, and two regulating ecosystem services (**PM2.5 mitigation** and **cooling**), we show that greenspace disparity extends beyond amount to functional composition, with the largest and most persistent deficits in **trees**.
 
-<img src="F1-workflow.png" width="70%">
+<img src="F1-workflow.png" width="100%">
 
 * If you have any questions or requests, contact us at zhuohong.li@duke.edu (Zhuohong Li, PhD.) or tong.qiu@duke.edu (Tong Qiu, PhD.).
 
@@ -17,7 +17,7 @@ This repository contains the complete protocol for reproducing the analysis pipe
 
 ## The sub-meter greenspace functional map
 ### The complete map product and user guide are released at: [**Zenodo (accession to be updated)**](https://zenodo.org/)
-<img src="Fig/Study_area.png" width="70%">
+<img src="Mapping-result.jpg" width="90%">
 
 The product covers **212 U.S. city cores** and distinguishes eight greenspace functional types following the IGBP / FAO land-cover conventions:
 
